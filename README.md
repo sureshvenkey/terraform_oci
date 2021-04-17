@@ -16,11 +16,11 @@
 * Click on the "API Keys" link on the "Resources" menu on the left-bottom of the screen.
 * Copy the fingerprint of the API Key you want to use.
 
-4. region:
+**4. region:**
 * Top-Left Hamburger > Administration > Region Management
 * Copy the "Region Identifier" for the region of interest.
 
-5. compartment_id:
+**5. compartment_id:**
 * Top-Left Hamburger > Identity > Compartments
 * Click on the root compartment.
 * Click the "Copy" link next to "OCID".
