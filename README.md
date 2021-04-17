@@ -1,16 +1,16 @@
 # terraform_oci
 ### Gather necessary information 
-1. tenancy_ocid:
+**1. tenancy_ocid:**
 * Top-Left Hamburger > Administration > Tenancy Details  
 * Click the "Copy" link next to "OCID".
 
-2. user_ocid:
+**2. user_ocid:**
 * Top-Left Hamburger > Identity > Users
 * Click on the user of interest.
 * Click the "Copy" link next to "OCID".
 * private_key_path : The path we used to create the keys.
 
-3. fingerprint:
+**3. fingerprint:**
 * Top-Left Hamburger > Identity > Users
 * Click on the user of interest.
 * Click on the "API Keys" link on the "Resources" menu on the left-bottom of the screen.
